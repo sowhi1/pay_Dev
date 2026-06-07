@@ -1,1 +1,0 @@
-.main{position:relative;display:flex;flex-direction:column;flex:1;background-color:#e4e4e4;min-height:100vh;--dm-bg: #111}.main.dark{background-color:var(--dm-bg);color:#fff}@media (max-width: 768px){.ant-row{margin-right:0!important;margin-left:0!important}.ant-col{padding-right:0!important;padding-left:0!important}.ant-card{margin-bottom:16px}.tool-tip{font-size:"2px"}}
